@@ -1,0 +1,26 @@
+[
+  {
+    "chatId": 1,
+    "username": "Priya Singh",
+    "userImage": "https://i.pinimg.com/736x/d2/f3/7c/d2f37c23b81f1c2569a5acd5afa60969.jpg",
+    "message": {
+      "content": "HiDearhru?",
+      "timeStamp": "27/02/2024",
+      "type": "text",
+      "deliveryStatus": "delivered",
+      "unreadCount": 12
+    }
+  },
+  {
+    "chatId": 2,
+    "username": "Karun Singh",
+    "userImage": "https://i.pinimg.com/736x/d2/f3/7c/d2f37c23b81f1c2569a5acd5afa60969.jpg",
+    "message": {
+      "content": "kse do bhia or sa",
+      "timeStamp": "27/02/2024",
+      "type": "text",
+      "deliveryStatus": "delivered",
+      "unreadCount": 2
+    }
+  }
+]
