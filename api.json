@@ -1,0 +1,1510 @@
+{
+  "globalVariantCodingList": {
+    "gVCVehBrand": 0,
+    "gVCVehModel": 4,
+    "gVCVehLine": 0,
+    "gVCEngType": 15,
+    "gVCAlternativeDriveSys": 0,
+    "gVCEmissStand": 3
+  },
+  "ppcFuelcellConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "mapAPartnumberString": "0034480860001",
+  "confAdasisProfile": "FFFFFFFF0000000000000900FFFFFFFFFFFFFFFF",
+  "wifiCLTIMEOUT": 10,
+  "rtcWakeupConfig": "00002F000000001E",
+  "delta": false,
+  "bootSWversion": 471064,
+  "ctpWakeup": 2944,
+  "remoteShutdownStarterLock": 3,
+  "cellularIpConfig": 3,
+  "cdsAPartnumberString": "0034481760001",
+  "signalPoolFunctionConfig": {
+    "configurations": [
+      {
+        "referenceSignalId": "ref_BRAKE_SWITCH_b",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_VehicleSpeed_b",
+        "functionIndex": 9
+      },
+      {
+        "referenceSignalId": "ref_CRUISE_CTRL_ACTIVE_b",
+        "functionIndex": 5
+      },
+      {
+        "referenceSignalId": "ref_TOTAL_FUEL_USED_b",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_FUEL_LEVEL_b",
+        "functionIndex": 5
+      },
+      {
+        "referenceSignalId": "ref_CURRENT_FUEL_CONSUMPTION_c",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_TOTAL_ENGINE_HOURS_b",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_VEHICLE_WEIGHT_c",
+        "functionIndex": 7
+      },
+      {
+        "referenceSignalId": "ref_VEHICLE_STATE_c",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_PTO1_c",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_TOTAL_VEHICLE_DISTANCE_b",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_STAND_STILL_b",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_AVERAGE_SPEED_b",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ENGINE_SPEED_b",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_ROAD_LEVEL_b",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ACTUAL_ENGINE_PERCENT_TORQUE_c",
+        "functionIndex": 5
+      },
+      {
+        "referenceSignalId": "ref_COASTING_b",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_HIGH_GEAR_b",
+        "functionIndex": 6
+      },
+      {
+        "referenceSignalId": "ref_ACTUAL_BRAKE_PERCENT_TORQUE_c",
+        "functionIndex": 6
+      },
+      {
+        "referenceSignalId": "ref_RetrdLvlPosn",
+        "functionIndex": 5
+      },
+      {
+        "referenceSignalId": "ref_HAND_BRAKE_STATUS_c",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_BRAKE_WEAR_ALL_WHEELS",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_special_driving_progr",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_current_shift_mode",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_requested_shift_mode",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_requested_eco_roll_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_executed_Kickdown_Switch",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_requested_cc_hysteris_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_ctrl_mode_selected",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_current_acc_intervention",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_eco_roll_active",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_CURRENT_ENGINE_TORQUE_b",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_CURRENT_ADBLUE_TANK_LVL",
+        "functionIndex": 5
+      },
+      {
+        "referenceSignalId": "ref_PPC_ACTIVE_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_requested_cc_low_hysteris_speed",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_TOTAL_ADBLUE_USED",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_adblue_severity",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_TirePressure",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_CoolLvl_Stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_CoolTempWarn_Stat_PT",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_IgnSw_Stat_SCA",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_SysVolt_Stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_PNM_Grp4_Stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_DispBatStat_Cmd",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_DispWarnBatChar_Cmd",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_eco_roll_mode",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ENG_OIL_PRESSURE",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_ENG_OIL_TEMPERATURE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_OUTPUT_SHAFT_SPEED",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_AIR_TEMP_OUTSIDE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_AIR_COMPRESSION_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ENGINE_COOLANT_TEMP",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ENGINE_PERCENT_TORQUE_DRIVER_REQ",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_FUEL_MASS_FLOW_RATE",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_STEERING_WHEEL_ANGLE_SENSOR_TYPE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_RETARDER_FITTED",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_STEERING_WHEEL_ANGLE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_STEERING_WHEEL_TURN_COUNTER",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_accelerator_pedal_position",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_last_gear_release_reason",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_cruise_control_activation",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lane_departure_warning",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_engine_fuel_rate",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_BAROMETRIC_PRESSURE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_BOOST_PRESSURE",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_RETARDER_PERCENT_TORQUE",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ABA_object_distance",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_BRAKE_PEDAL_POSITION",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ABS_ACTIVE2",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ROP_ENGINE_CONTROL_ACTIVE2",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ROP_BRAKE_CONTROL_ACTIVE2",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_YC_ENGINE_CONTROL_ACTIVE2",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_YC_BRAKE_CONTROL_ACTIVE2",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_XY_ACCELERATION",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_SEATBELT_SWITCH",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ENGINE_FUEL_DELIVERY_PRESSURE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_CRASH_EVENT_STAT",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_EMERGENCY_BRAKING_WARN",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ABA_DISTANCE_WARN_STAT",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_REQ_MDAS_WARN_LVL",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ABA_optical_acoustical_warn_req",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ENGINE_IDLE_STATE_MCM",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_BRK_AIR_PRESS_STAT",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ABA_DRIVER_ACTIVATION_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ACTUAL_ENGINE_PERCENT_TORQUE_HI_RES_c",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ENG_INTAKE_MANIFOLD_PRESSURE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_DIESEL_PART_FILT_DIFF_PRESSURE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_FAN_DRIVE_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_DPF_Act_Regen_Stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_CURRENT_GEAR",
+        "functionIndex": 4
+      },
+      {
+        "referenceSignalId": "ref_TCO_CARD_1_STATE",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_TCO_CARD_2_STATE",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_DOOR_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_RAMP_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_TELL_TALE_STATE",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_CLUTCH_SWITCH_STATE",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_SERVICE_DISTANCE",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_cruise_ctrl_set_speed_curr_val",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_turn_signal_command",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_external_brake_req_stat",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ACC_dist_mode",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_forward_vehicle_dist",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_forward_vehcile_difference_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_doser_fuel_rate",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_BS_yaw_rate",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_transmission_oil_temp",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_object_type_forward_vehicle_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_intr_urb_mode_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_power_window_passenger_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_power_window_driver_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_sun_roof_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_hvac_activation_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_roof_hatch_rear_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_roof_hatch_front_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_tractor_zone_right_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cst_val_ippc_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_dip_hysteresis_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_curve_speed_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_accelerator_pedal_kickdown_switch_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_ctrl_hysteresis_lower_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_ctrl_hysteresis_current_value",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_total_engine_revolutions",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_pto_governor_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_demand_percent_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_drivers_demand_retarder_percent_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_fuel_temperature",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_engine_turbocharger_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cc_enable_switch",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_average_fuel_economy",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_engine_percent_load",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_maximum_engine_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_nominal_friction",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_accelerator_enable_switch",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_water_in_fuel_indicator",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_accelerator_pedal_position",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_awl_command",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_rsl_command",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_obd_mil_command",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_def_consumption",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ippc_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_external_acceleration_request",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_acc_optical_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lane_departure_imminent",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_fan_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_nfc_driver_id",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_aux_air_press_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_diesel_particle_filter_condition",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_transmission_input_shaft_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_maximum_nox_conversion_rate",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_egr_differential_pressure",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_air_filter_differential_pressure",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_declination_sensor",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_boost_temperature",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_sdp5_data",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_air_temp_inside",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_fuel_level",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_battery_voltage",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_halt_brake_mode",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_activation_ready",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_circulation_pump",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_cooling_water_temp",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_fuel_supply_valve_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_hvac_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_red_message_fire_wc",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ibh_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_door_display_status",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_retarder_switch_maximum_position",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_sdp5_video_trigger",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_wash_fluid_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_roof_hatch_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_driver_air_condition_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_passenger_air_condition_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_External_Brake_Request_EDSS",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_tractor_zone_left_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_warning_level0_look_aside_requested_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_warning_level0_close_eye_requested_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_hazard_warning_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cc_shutdown_request_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_fog_light_switch_front_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_fog_light_switch_rear_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_hazard_switch_req_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ala_edss_hazard_lights_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lateral_acceleration_trailer",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_weight_current_state",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_warning_level0_attention_assist_requested_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_eco_power_switch_over_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_aba_selected_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_aba_driver_override_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lk_hands_on_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ldp_intervention_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ldp_driver_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ldp_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lk_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lk_driver_activation_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_seat_occupation_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_main_light_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_wiper_speed_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_tsr_function_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_nominal_front_axle_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_nominal_rear_axle_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_light_sensor_night_mode_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_light_sensor_twilight_level_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lk_function_change_warning_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speeding_pre_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_optimized_idle_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_active_lubrication_rear_axle_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lk_hands_on_warning_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_traffic_sign_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speeding_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speeding_cc_adjusted",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speeding_cc_canceled",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speeding_defueling",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_relative_axle_level",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_supplementary_sign_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_speed_limit_warn",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_no_passing_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_wrong_way_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_speed_limiter",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_mpc2_video_capability",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_passing_maneuver_estimated_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_brand",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_edf_reset_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_main_battery_voltage",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_fuel_res_tank1_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_pnm_group_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_serial_number",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ACC_dist_mode_stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_acc_distance_alert_signal_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_dm1_list",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_turn_signal_request_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_imrp_1",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_attention_assist_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_can_present",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_fuel_res_tank2_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_dtco_state",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_acc_enable_request",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_acc_plus_enable_request",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_air_filter_warning_state",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_air_mass",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_air_pressure_circuit",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_brake_wear_ms",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_control_brake_speed",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_control_popup_request",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_differential_lock",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_current_engine_torque_request",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_gvc_cruise_control_function",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_ippc_state",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_maintenance_system_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_manual_shift_request",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_optimal_gear_selection_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_recommended_gear_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_road_gradient",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_tire_pressure_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_out_of_level_range",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_air_pressure_request",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_ignition_state_mcm",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_eld_signal_integrity",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_aba_active_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bs_corr_yaw_rate",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_actual_e_motor_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_actual_friction_brake_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_air_temp_inside_request",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_hvac_ac_mode_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_mode_switch_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_tractrix_switch_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_prev_trailer_requested_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_next_trailer_requested_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_srr_alignment_fail_left_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_srr_alignment_fail_right_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_asga_brake_occured",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_asga_brake_warning",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_trailer_zone_left_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_trailer_zone_right_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_trailer_config_popup",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_blind_spot_monitoring_error_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_bsm_acoustic_warning_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_backup_battery_voltage",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_can_datetime_msg",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_roe_lite_security_event_list",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lane_depart_driver_activation_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_trailer_id",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_FUEL_LEVEL_2",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_lane_depart_activation_state",
+        "functionIndex": 3
+      },
+      {
+        "referenceSignalId": "ref_vdo_tco_data",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_friction_brake_recuperation_relative_torque",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_max_recuperation_power_percentage",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_active_drive_train_power_percentage",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_oil_replenish_percentage",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_shutdown_enabled",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_shutdown_enginespeed_limit",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_shutdown_vehiclespeed_limit",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_shutdown_starterlock",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_remote_shutdown_engine_limiter_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_steering_oil_level_switch_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_accp_shutdown_request",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_active_lane_assist_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_emergency_driving_stop_system_warn_req",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cruise_control_set_speed_current_value",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_aba_lamp_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_wash_fluid_level",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_faulty_bulbs_sca",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_faulty_bulbs_sch",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_oil_viscosity",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_engine_oil_quality",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_one_pedal_recuperation",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_eng_oil_lvl_low_warn_stat",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_eng_oil_lvl_high_warn_stat",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_fota_hmi",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_model",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_trailer_detection_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_ippc_mode_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_gvc_system_message_ippc",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_gvc_vehicle_weigth_rating",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_drivetrain_ready_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_offboard_tester_stat",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cpc_dc_filterconfig_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_cgw_dc_filterconfig_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_external_brake_control_mode_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_external_brake_priority_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_acc_active_current_state",
+        "functionIndex": 1
+      },
+      {
+        "referenceSignalId": "ref_vehicle_line",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_engine_type",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_alternative_drive_system",
+        "functionIndex": 2
+      },
+      {
+        "referenceSignalId": "ref_emission_standard",
+        "functionIndex": 2
+      }
+    ]
+  },
+  "remoteShutDownEnabled": 0,
+  "bootloaderVersion": "9b34fe9",
+  "orderingPartNumber": "",
+  "wifiBackendMode": 0,
+  "ppcEngineConfig": "0000191E191E141432463C503246506E6464191928500005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "j1939NodeName": 0,
+  "edf2Mode": 1,
+  "vcHaz": 0,
+  "adasMapLastUpdate": "202507040634585",
+  "vin": "W1T9634051C077224",
+  "vcGcvw": 56325,
+  "canFirewallConfig": {
+    "xmlFWCfg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<can>\n  <!-- Whitelist CFW_FBS_CEEACE.xml generated from template file on 09.12.25 08:44:39 -->\n  <bus number=\"0\" udslimiter=\"20\" logging=\"0\">\n    <!-- allow all 29-bit Rx-IDs -->\n    <rawfilter id=\"0x00000000x\" mask=\"0x00000000\" tx=\"false\" rx=\"true\"/>\n    <!-- HWEISER: even though we are having an open CAN filter definition at the moment I am starting to add CEEAce specific frames -->\n    <!-- ROELite messages for all ECUs which are sending this - DTTPSW-50981 -->\n    <rawfilter id=\"0x18EFFD00x\" mask=\"0x1FFFFF00\" tx=\"false\" rx=\"true\"/>\n    <!-- SCA_C24 - DTTPSW-32433 -->\n    <rawfilter id=\"0x18FF2421x\" mask=\"0x1FFFFFFF\" tx=\"false\" rx=\"true\"/>\n  </bus>\n  <bus number=\"1\" udslimiter=\"20\" logging=\"0\">\n    <!-- allow all 29-bit Rx-IDs -->\n    <rawfilter id=\"0x00000000x\" mask=\"0x00000000\" tx=\"false\" rx=\"true\"/>\n  </bus>\n  <bus number=\"2\" udslimiter=\"20\" logging=\"0\">\n    <!-- allow all 29-bit Rx-IDs -->\n    <rawfilter id=\"0x00000000x\" mask=\"0x00000000\" tx=\"false\" rx=\"true\"/>\n    <!-- taken over from CFW_FBS_18_v3.3.6 bus number 2 -->\n    <!-- perhaps there are entries inside which are actually not required anymore in an CTP3 CEEAce variant because functionality has been removed? -->\n    <!-- mode, target and did entries limiter have been removed as per Boschs suggestion -->\n    <!-- Diagnostic Session Control - Default Session - PosResp -->\n    <udsfilter tester=\"0xFB\" sid=\"0x10\"/>\n    <!-- sid=0x11 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x11\"/>\n    <!-- Read DTC Information -->\n    <udsfilter tester=\"0xFB\" sid=\"0x19\"/>\n    <!-- Read Data by Identifier -->\n    <udsfilter tester=\"0xFB\" sid=\"0x22\"/>\n    <!-- Read Memory by Address -->\n    <udsfilter tester=\"0xFB\" sid=\"0x23\"/>\n    <!-- sid=0x27 was missing in CFW_FBS_18_v3.3.8.xml for tester=0xFB - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x27\"/>\n    <!-- sid=0x28 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x28\"/>\n    <!-- sid=0x2E was missing in CFW_FBS_18_v3.3.8.xml for tester=0xFB - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x2E\"/>\n    <!-- Routine Control (Remote Company Card Authentification) -->\n    <udsfilter tester=\"0xFB\" sid=\"0x31\"/>\n    <!-- sid=0x34 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x34\"/>\n    <!-- Request Upload -->\n    <udsfilter tester=\"0xFB\" sid=\"0x35\"/>\n    <!-- Transfer Data -->\n    <udsfilter tester=\"0xFB\" sid=\"0x36\"/>\n    <!-- Request Transfer Exit -->\n    <udsfilter tester=\"0xFB\" sid=\"0x37\"/>\n    <!-- Tester Present -->\n    <udsfilter tester=\"0xFB\" sid=\"0x3E\"/>\n    <!-- sid=0x85 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFB\" sid=\"0x85\"/>\n    <!-- Diagnostic Session Control - Default Session - PosResp -->\n    <udsfilter tester=\"0xFD\" sid=\"0x10\"/>\n    <!-- sid=0x11 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFD\" sid=\"0x11\"/>\n    <!-- Read DTC Information -->\n    <udsfilter tester=\"0xFD\" sid=\"0x19\"/>\n    <!-- Read Data by Identifier -->\n    <udsfilter tester=\"0xFD\" sid=\"0x22\"/>\n    <!-- Read Memory by Address -->\n    <udsfilter tester=\"0xFD\" sid=\"0x23\"/>\n    <!-- Security Access Send/Request Seed Lvl 9 for \"COM unlock\" -->\n    <udsfilter tester=\"0xFD\" sid=\"0x27\"/>\n    <!-- sid=0x28 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFD\" sid=\"0x28\"/>\n    <!-- Write Data by Identifier \"Write Configuration Fingerprint\" for \"COM unlock\" -->\n    <udsfilter tester=\"0xFD\" sid=\"0x2E\"/>\n    <!-- Routine Control: Read reset counter -->\n    <!-- Routine Control: CAN snapshot -->\n    <!-- Routine Control: Set Flag FleetBoard active -->\n    <!-- Routine Control: Read all error number information -->\n    <!-- Routine Control: Set Flag FleetBoard not active -->\n    <udsfilter tester=\"0xFD\" sid=\"0x31\"/>\n    <!-- sid=0x34 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFD\" sid=\"0x34\"/>\n    <!-- Request Upload -->\n    <udsfilter tester=\"0xFD\" sid=\"0x35\"/>\n    <!-- Transfer Data -->\n    <udsfilter tester=\"0xFD\" sid=\"0x36\"/>\n    <!-- Request Transfer Exit -->\n    <udsfilter tester=\"0xFD\" sid=\"0x37\"/>\n    <!-- Tester Present -->\n    <udsfilter tester=\"0xFD\" sid=\"0x3E\"/>\n    <!-- sid=0x85 was missing in CFW_FBS_18_v3.3.8.xml - took it anyway in -->\n    <udsfilter tester=\"0xFD\" sid=\"0x85\"/>\n  </bus>\n</can>\n",
+    "signature": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+  },
+  "tcoCaps": 1,
+  "vehicleNetType": 1537,
+  "horizonWaitCalibratedPosition": 1,
+  "wifiBackendSSID": "",
+  "serialNumber": "6140020160",
+  "pnmMaxStrFeatureUse": 0,
+  "ppcCoreConfig": "FFFFD0070001FFFF0302021401FFFFFF010003FFFF010101FF01FFFFFFFFFF0301FFFFFF7678FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "wifiPTrafficTimeout": 60,
+  "signalPoolMode": 6,
+  "cellularAccTech": 2,
+  "wifiPTrafficThresh": 1,
+  "ppcExtendedHorizonConf": "01FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "vcVehtype": 1,
+  "adasMapRegion": 0,
+  "wifiMaxConnections": 4,
+  "ppcCoreSwVersionInt": 0,
+  "edf2VehicleConfig": "1F8B08000000000000002DCE3D88D4501000E0CC4CE6BD5C5CC9BA1EE7EE0AEB7AFE6D2957C8152B9BF377CB6B3CECB4B0B0B4BC32CD411A216514853487DB1CA4504923C62E8D904648236C7390E6609B9334B2BEC83C78F3313FBC378F1F3D7CF2142C0BBF39564F395617FA6804918C60B44525752D3AA22B5E90B98E7851F4A4DF95FC52D7EA1F1A2F4B7E45EC8B03D36F1D8A57C591784D1C9BF976EFEB926F4B7E43F29BE2AD2EFEF7B6BC7F479CB40EBF92F3A27BD077C734C1BBB86BF93C87FD74E339BFE4D7A337744811600C98002E0052D8CC60278751015842E32E816BF01A70037443FC0C114E3FA265F9FEB189C16C81792745CA9073DC2C904AC40AB1466F852B68D00BC80D8923A29838A1CE822025C808737A551097E4543459925B93B7A26943D323DB3227B4DDC8AEEEC5E626369FB4B5EFA9ED6536E5B657D8EE2FFBFDBBC1ECB7DD6E706AE2FCC7998963FFDCC4CE83BFED7C7EC4A6B2F7D6C4C48FB817F330615EF056CAC38CB772EE15CC250F2B1E9D7294ECFA67FCA99EDF3FE7F6FF860F0205A1C24841AC3051B050F84599CE2C53902B2814940A2A054B35AD15AD94D5A869A0FFACD76B2FD41F5A22BD19EBFD63DDEE75A2DB2D523DC9F420D7EA675BDC2B35559A97FA59AD7756BAD3E841E08C4287220763071307B69D1E3A6CEEC63F84AEC95EC7020000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "j1939NodeAddress": 67,
+  "resetId": "6140020160_1765269918358_386488167",
+  "pnmMaxStrTime": 0,
+  "wifiMaxTimeout": 12,
+  "hwPartNumber": "0454460260",
+  "countriesRadioCertification": "ALDZADAUATAZBYBEBABRBGHRCYCZDKEGEEFIFRGEDEGIGRGLHUISIDIEILITXKKWLVLILTLUMKMYMTMDMCMEMANLNZNOPSPYPLPTQARORUSMSARSSGSKSIZAKRESSECHTNTRUAAEGBVATF",
+  "ppcAxleConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "systemMode": 0,
+  "vcUtchour": 255,
+  "powerOffTime": 2,
+  "softwareVersion": "223.340.900",
+  "workshopMode": "OFF",
+  "mqttHeartbeat": 60,
+  "remoteShutDownECU": 0,
+  "modemVersion": "00.05.48.32",
+  "wifiHotspotEnabled": 0,
+  "vcTrstatAuto": 1,
+  "vcUtcmin": 255,
+  "ppcVehicleConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "d8Type": "CONTINENTAL_TCO",
+  "canMasterChannel": 1,
+  "activeKeySet": 0,
+  "ppcCDIConfig": "000001010101010A64000107FFFFFFFFFFFF03FFFFFFFFFFFFFF0101FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "cdsSwVersionInt": 1582080,
+  "platformVersion": "DAIMLER_CTP3_JAKARTA_BR2_S.011",
+  "remoteShutdownEngineSpeedLimit": 65535,
+  "ppcReconConfig": "FFFF01FF010001010101000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "canLogging": "OFF",
+  "ppcBatteryConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "remoteShutdownVehicleSpeedLimit": 255,
+  "can3RDLADDRESS": 251,
+  "ppcTransfercaseConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "ppcMapConfig": "C4006001D601E8029A039C039B03FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "wifiChipStatus": 1,
+  "vcGcvwAuto": 1,
+  "cnWifiTDMMode": 0,
+  "vcVehtypeAuto": 1,
+  "ppcEMotorConfig": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "swPartNumber": "0034481860001",
+  "ppcRetarderConfig": "484855FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "adasMapActivationDate": "202507040634585",
+  "imsiNumber": "262017840674271",
+  "cellularMNOConfig": 0,
+  "vcTrstat": 2,
+  "wifiELDEnabled": 0,
+  "remoteShutdownWorkaroundActive": true,
+  "ppcTransmissionConfig": "0000000000000000000000000000FAFAFAFAFAFAFA0000000000000000000000000000FAFAFAFAFAFAFA00000000000000000000000000000000FAFAFAFAFAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  "mapSwVersionInt": 1512707,
+  "iccidNumber": "89490200002107509771",
+  "factoryModeDistance": 0,
+  "gprsConfiguration": "GPRSConfig[CommunicationConfigurationMessage[communicationConfiguration=[CommunicationConfiguration[mnc=[01], mcc=262, pollingInterval=5, securityId=prd.dteu, discoveryEndPoint=ServerEndPoint[ipAddress=discovery.weu.prd-eu.platform.csg.daimlertruck.com, port=52445], publicApn=internet.m2mportal.de, publicApnUsername=, publicApnPassword=, discoveryRegEndPoint=ServerEndPoint[ipAddress=device-registration.weu.prd-eu.platform.csg.daimlertruck.com, port=52545]]]]]",
+  "mqttConfig": {
+    "idleDisconnectTime": 60,
+    "keepAliveTime": 64,
+    "tcpConnectTimeout": 6,
+    "reconnectTime": 0,
+    "connectTimeout": 60,
+    "idleReconnectTime": 900000,
+    "invalidateTokenCounter": 5,
+    "maxStorageMessageCount": 4000,
+    "nadPingInterval": 38,
+    "nadReconnectTime": 30
+  },
+  "activated": 0,
+  "vrcrConfig": {
+    "firewallConfigs": [
+      {
+        "deviceType": "CLOUD",
+        "allECUsAllowed": false,
+        "ecuAccess": [
+          {
+            "ecuId": 0,
+            "allFunctionsAllowed": false,
+            "allowedFunctions": [
+              400
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tcoType": 1,
+  "activeFilterConfig": {
+    "id": [
+      {
+        "channel": "CGW_BBEXT_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CGW_BBINT_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CGW_CABIN_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CGW_CHASSIS_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CGW_EXT_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_DRIVE_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_ENGINE_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_ENERGY_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_EAD_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_INVERTER_CAN",
+        "id": 666
+      },
+      {
+        "channel": "CPC_HYDROGEN_CAN",
+        "id": 666
+      }
+    ]
+  },
+  "wifiSSID": "MBTruck_GYB2F6SGBE",
+  "odtPackagesInfoList": {
+    "odtPackages": [
+      {
+        "reference": {
+          "id": "VhQtMmTtdsgFalseCtp3ext",
+          "major": 1,
+          "minor": 0
+        },
+        "activated": true,
+        "scriptConfigs": [
+          {
+            "scriptName": "Quicktest.odts",
+            "conditions": [],
+            "maxExecutionCount": 3,
+            "persist": false,
+            "fetchSignalSnapShot": true,
+            "maxExecutionTime": -1
+          }
+        ]
+      }
+    ]
+  }
+}
