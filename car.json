@@ -5,24 +5,24 @@
     "model_name": "G 63",
     "category": "SUV",
     "year": 2018,
-    "image_url": "https://www.spinny.com/blog/wp-content/uploads/2025/06/Mercedes-Maybach-SL-680-1160x768.webp",
+    "image_url": "https://images.unsplash.com/photo-1520050206274-a1af4463d843?q=80&w=800",
     "rating": 4.8,
     "distance_km": 1.5,
-    "price_per_hour": 2.5,
-    "price_per_day": 30.0,
+    "price_per_hour": 25.0,
+    "price_per_day": 300.0,
     "currency": "$",
-    "description": "Unleash power and luxury with the iconic Mercedes-AMG G 63. This 2018 model blends aggressive design with elite performance.",
+    "description": "Unleash power and luxury with the iconic G-Wagon. Perfect for off-road or city cruising.",
     "specifications": {
       "transmission": "Automatic",
       "fuel_type": "Diesel",
       "seating_capacity": "5 Seats",
       "body_type": "SUV",
-      "engine_capacity": "2983 cc"
+      "engine_capacity": "3982 cc"
     },
     "owner": {
-      "name": "Riyadh Management Group",
+      "name": "Riyadh Management",
       "rating": 4.8,
-      "avatar_url": "https://img.freepik.com/free-photo/handsome-young-cheerful-man-with-arms-crossed_171337-1073.jpg?semt=ais_hybrid&w=740&q=80",
+      "avatar_url": "https://i.pravatar.cc/150?u=riyadh",
       "contact_number": "+123456789",
       "can_chat": true
     }
@@ -33,82 +33,82 @@
     "model_name": "911 Carrera",
     "category": "Sport",
     "year": 2022,
-    "image_url": "https://media.ed.edmunds-media.com/porsche/911/2025/oem/2025_porsche_911_coupe_carrera-4-gts_fq_oem_1_1280.jpg",
+    "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=800",
     "rating": 5.0,
     "distance_km": 0.5,
-    "price_per_hour": 15.0,
-    "price_per_day": 180.0,
+    "price_per_hour": 45.0,
+    "price_per_day": 550.0,
     "currency": "$",
-    "description": "The gold standard of sports cars. Precise handling and timeless design for the ultimate driving experience.",
+    "description": "The gold standard of sports cars. Experience precision handling and legendary performance.",
     "specifications": {
       "transmission": "PDK",
       "fuel_type": "Petrol",
       "seating_capacity": "2 Seats",
       "body_type": "Sport",
-      "engine_capacity": "3000 cc"
+      "engine_capacity": "2981 cc"
     },
     "owner": {
-      "name": "Elite Luxury Fleet",
+      "name": "Elite Fleet",
       "rating": 5.0,
-      "avatar_url": "https://media.news.illinois.edu/wp-content/uploads/2024/12/19104019/163506.jpg",
+      "avatar_url": "https://i.pravatar.cc/150?u=elite",
       "contact_number": "+155544433",
       "can_chat": false
     }
   },
   {
-    "id": "tesla-model3-2023",
+    "id": "tesla-model-3-2023",
     "brand": "Tesla",
     "model_name": "Model 3",
     "category": "Sedan",
     "year": 2023,
-    "image_url": "https://api.car-rental.com/images/model3.png",
+    "image_url": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?q=80&w=800",
     "rating": 4.9,
     "distance_km": 2.1,
-    "price_per_hour": 3.0,
-    "price_per_day": 45.0,
+    "price_per_hour": 15.0,
+    "price_per_day": 120.0,
     "currency": "$",
-    "description": "Experience the future with the Tesla Model 3. High-tech interior with insane acceleration and zero emissions.",
+    "description": "The future of driving. All-electric, high-tech, and incredibly fast.",
     "specifications": {
-      "transmission": "Automatic",
+      "transmission": "Single Speed",
       "fuel_type": "Electric",
       "seating_capacity": "5 Seats",
       "body_type": "Sedan",
       "engine_capacity": "Dual Motor"
     },
     "owner": {
-      "name": "EcoRentals",
+      "name": "Eco Rentals",
       "rating": 4.7,
-      "avatar_url": "https://api.car-rental.com/images/owner2.png",
+      "avatar_url": "https://i.pravatar.cc/150?u=eco",
       "contact_number": "+198765432",
       "can_chat": true
     }
   },
   {
-    "id": "rollsroyce-phantom-2023",
-    "brand": "Rolls-Royce",
-    "model_name": "Phantom",
-    "category": "Luxury",
-    "year": 2023,
-    "image_url": "https://api.car-rental.com/images/phantom.png",
-    "rating": 5.0,
-    "distance_km": 0.1,
-    "price_per_hour": 100.0,
-    "price_per_day": 1200.0,
+    "id": "audi-r8-2021",
+    "brand": "Audi",
+    "model_name": "R8 V10 Performance",
+    "category": "Sport",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1603577372314-d462447493bd?q=80&w=800",
+    "rating": 4.9,
+    "distance_km": 0.8,
+    "price_per_hour": 55.0,
+    "price_per_day": 650.0,
     "currency": "$",
-    "description": "The ultimate expression of luxury. Silent, powerful, and utterly incomparable.",
+    "description": "A supercar for everyday use. Naturally aspirated V10 power.",
     "specifications": {
-      "transmission": "Automatic",
+      "transmission": "S-Tronic",
       "fuel_type": "Petrol",
-      "seating_capacity": "5 Seats",
-      "body_type": "Luxury",
-      "engine_capacity": "6750 cc"
+      "seating_capacity": "2 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "5204 cc"
     },
     "owner": {
-      "name": "Prestige Concierge",
-      "rating": 5.0,
-      "avatar_url": "https://api.car-rental.com/images/owner18.png",
-      "contact_number": "+188811122",
-      "can_chat": false
+      "name": "Velocity Group",
+      "rating": 4.9,
+      "avatar_url": "https://i.pravatar.cc/150?u=velocity",
+      "contact_number": "+123450000",
+      "can_chat": true
     }
   },
   {
@@ -117,147 +117,446 @@
     "model_name": "Urus",
     "category": "SUV",
     "year": 2022,
-    "image_url": "https://api.car-rental.com/images/urus.png",
+    "image_url": "https://images.unsplash.com/photo-1632243541394-1736691f1652?q=80&w=800",
     "rating": 4.9,
-    "distance_km": 0.8,
-    "price_per_hour": 25.0,
-    "price_per_day": 350.0,
+    "distance_km": 1.2,
+    "price_per_hour": 60.0,
+    "price_per_day": 800.0,
     "currency": "$",
-    "description": "The soul of a super sports car and the functionality of an SUV. Unmatched presence on the road.",
+    "description": "Supercar soul inside an SUV body. Unrivaled performance and style.",
     "specifications": {
       "transmission": "Automatic",
       "fuel_type": "Petrol",
       "seating_capacity": "5 Seats",
       "body_type": "SUV",
-      "engine_capacity": "4000 cc"
+      "engine_capacity": "3996 cc"
     },
     "owner": {
-      "name": "Exotic Auto Group",
-      "rating": 4.9,
-      "avatar_url": "https://api.car-rental.com/images/owner7.png",
-      "contact_number": "+199988877",
+      "name": "Exotic Hires",
+      "rating": 4.8,
+      "avatar_url": "https://i.pravatar.cc/150?u=exotic",
+      "contact_number": "+155599900",
       "can_chat": false
     }
   },
   {
-    "id": "audi-a4-2020",
-    "brand": "Audi",
-    "model_name": "A4",
-    "category": "Sedan",
-    "year": 2020,
-    "image_url": "https://api.car-rental.com/images/audia4.png",
-    "rating": 4.4,
-    "distance_km": 4.5,
-    "price_per_hour": 2.0,
-    "price_per_day": 28.0,
-    "currency": "$",
-    "description": "Sophisticated, smart, and smooth. The Audi A4 is the perfect companion for business meetings in the city.",
-    "specifications": {
-      "transmission": "Automatic",
-      "fuel_type": "Petrol",
-      "seating_capacity": "5 Seats",
-      "body_type": "Sedan",
-      "engine_capacity": "2000 cc"
-    },
-    "owner": {
-      "name": "Metropolis Rentals",
-      "rating": 4.2,
-      "avatar_url": "https://api.car-rental.com/images/owner5.png",
-      "contact_number": "+122211100",
-      "can_chat": true
-    }
-  },
-  {
-    "id": "bmw-x5-2021",
-    "brand": "BMW",
-    "model_name": "X5 M",
-    "category": "SUV",
-    "year": 2021,
-    "image_url": "https://api.car-rental.com/images/bmwx5.png",
-    "rating": 4.6,
-    "distance_km": 3.2,
-    "price_per_hour": 5.0,
-    "price_per_day": 75.0,
-    "currency": "$",
-    "description": "A versatile SUV that doesn't compromise on speed. Perfect for family road trips.",
-    "specifications": {
-      "transmission": "Automatic",
-      "fuel_type": "Petrol",
-      "seating_capacity": "5 Seats",
-      "body_type": "SUV",
-      "engine_capacity": "4400 cc"
-    },
-    "owner": {
-      "name": "Global Car Hub",
-      "rating": 4.5,
-      "avatar_url": "https://api.car-rental.com/images/owner4.png",
-      "contact_number": "+144433322",
-      "can_chat": true
-    }
-  },
-  {
-    "id": "toyota-camry-2022",
-    "brand": "Toyota",
-    "model_name": "Camry Hybrid",
-    "category": "Sedan",
+    "id": "rolls-royce-phantom-2022",
+    "brand": "Rolls-Royce",
+    "model_name": "Phantom",
+    "category": "Luxury",
     "year": 2022,
-    "image_url": "https://api.car-rental.com/images/camry.png",
-    "rating": 4.7,
-    "distance_km": 5.0,
-    "price_per_hour": 1.5,
-    "price_per_day": 22.0,
+    "image_url": "https://images.unsplash.com/photo-1631214548472-358043642301?q=80&w=800",
+    "rating": 5.0,
+    "distance_km": 0.2,
+    "price_per_hour": 150.0,
+    "price_per_day": 1500.0,
     "currency": "$",
-    "description": "Reliability meets efficiency. Great fuel economy and a comfortable ride.",
+    "description": "The ultimate luxury statement. Absolute silence and supreme comfort.",
     "specifications": {
-      "transmission": "CVT",
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "Luxury",
+      "engine_capacity": "6750 cc"
+    },
+    "owner": {
+      "name": "Prestige Club",
+      "rating": 5.0,
+      "avatar_url": "https://i.pravatar.cc/150?u=prestige",
+      "contact_number": "+111222333",
+      "can_chat": false
+    }
+  },
+  {
+    "id": "bmw-m4-2021",
+    "brand": "BMW",
+    "model_name": "M4 Competition",
+    "category": "Sport",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?q=80&w=800",
+    "rating": 4.7,
+    "distance_km": 2.5,
+    "price_per_hour": 30.0,
+    "price_per_day": 350.0,
+    "currency": "$",
+    "description": "Aggressive styling meets track-ready performance. A driver's favorite.",
+    "specifications": {
+      "transmission": "M Steptronic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "4 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "2993 cc"
+    },
+    "owner": {
+      "name": "BMW Enthusiasts",
+      "rating": 4.6,
+      "avatar_url": "https://i.pravatar.cc/150?u=bmw",
+      "contact_number": "+144455566",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "range-rover-sport-2023",
+    "brand": "Land Rover",
+    "model_name": "Range Rover Sport",
+    "category": "Luxury",
+    "year": 2023,
+    "image_url": "https://images.unsplash.com/photo-1606148632349-14a44677762a?q=80&w=800",
+    "rating": 4.8,
+    "distance_km": 1.1,
+    "price_per_hour": 35.0,
+    "price_per_day": 400.0,
+    "currency": "$",
+    "description": "Dynamic luxury and exceptional off-road capability in one SUV.",
+    "specifications": {
+      "transmission": "Automatic",
       "fuel_type": "Hybrid",
       "seating_capacity": "5 Seats",
-      "body_type": "Sedan",
-      "engine_capacity": "2500 cc"
+      "body_type": "Luxury SUV",
+      "engine_capacity": "2996 cc"
     },
     "owner": {
-      "name": "Daily Drive Co",
-      "rating": 4.8,
-      "avatar_url": "https://api.car-rental.com/images/owner6.png",
-      "contact_number": "+166677788",
+      "name": "High Range Rentals",
+      "rating": 4.7,
+      "avatar_url": "https://i.pravatar.cc/150?u=land",
+      "contact_number": "+177788899",
       "can_chat": true
     }
   },
   {
-    "id": "ford-mustang-2019",
+    "id": "ford-mustang-gt-2020",
     "brand": "Ford",
     "model_name": "Mustang GT",
     "category": "Sport",
-    "year": 2019,
-    "image_url": "https://api.car-rental.com/images/mustang.png",
+    "year": 2020,
+    "image_url": "https://images.unsplash.com/photo-1584345604482-813583d92008?q=80&w=800",
     "rating": 4.5,
-    "distance_km": 2.8,
-    "price_per_hour": 4.0,
-    "price_per_day": 60.0,
+    "distance_km": 3.4,
+    "price_per_hour": 12.0,
+    "price_per_day": 100.0,
     "currency": "$",
-    "description": "Pure American muscle. The roar of the V8 engine will make every drive an adventure.",
+    "description": "The classic American muscle. Feel the roar of the V8 engine.",
     "specifications": {
       "transmission": "Manual",
       "fuel_type": "Petrol",
       "seating_capacity": "4 Seats",
       "body_type": "Sport",
-      "engine_capacity": "5000 cc"
+      "engine_capacity": "5038 cc"
     },
     "owner": {
-      "name": "Muscle Car Club",
+      "name": "Muscle Car City",
       "rating": 4.4,
-      "avatar_url": "https://api.car-rental.com/images/owner8.png",
-      "contact_number": "+133322211",
+      "avatar_url": "https://i.pravatar.cc/150?u=muscle",
+      "contact_number": "+188811122",
       "can_chat": true
     }
   },
   {
-    "id": "landrover-defender-2023",
-    "brand": "Land Rover",
-    "model_name": "Defender 110",
-    "category": "SUV",
+    "id": "lexus-ls500-2023",
+    "brand": "Lexus",
+    "model_name": "LS 500h",
+    "category": "Luxury",
     "year": 2023,
-    "image_url": "https://api.car-rental.com/images/defender.png",
+    "image_url": "https://images.unsplash.com/photo-1621370845348-e21542f7c32e?q=80&w=800",
     "rating": 4.8,
-    "distance_km": 1.2,
-    "price_per_hour": 6.5,
+    "distance_km": 0.4,
+    "price_per_hour": 22.0,
+    "price_per_day": 250.0,
+    "currency": "$",
+    "description": "Refined elegance and hybrid efficiency. The pinnacle of Japanese luxury.",
+    "specifications": {
+      "transmission": "Multi-Stage Hybrid",
+      "fuel_type": "Hybrid",
+      "seating_capacity": "5 Seats",
+      "body_type": "Sedan",
+      "engine_capacity": "3456 cc"
+    },
+    "owner": {
+      "name": "Zenith Limo",
+      "rating": 4.9,
+      "avatar_url": "https://i.pravatar.cc/150?u=lexus",
+      "contact_number": "+100033322",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "audi-a6-2021",
+    "brand": "Audi",
+    "model_name": "A6",
+    "category": "Sedan",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1542362567-b058c02b9ac1?q=80&w=800",
+    "rating": 4.6,
+    "distance_km": 2.8,
+    "price_per_hour": 12.0,
+    "price_per_day": 110.0,
+    "currency": "$",
+    "description": "The executive sedan that balances tech, comfort, and performance.",
+    "specifications": {
+      "transmission": "S-Tronic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "Sedan",
+      "engine_capacity": "1984 cc"
+    },
+    "owner": {
+      "name": "Corporate Rentals",
+      "rating": 4.5,
+      "avatar_url": "https://i.pravatar.cc/150?u=audisedan",
+      "contact_number": "+122244455",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "toyota-supra-2022",
+    "brand": "Toyota",
+    "model_name": "Supra GR",
+    "category": "Sport",
+    "year": 2022,
+    "image_url": "https://images.unsplash.com/photo-1611016186353-9af58c69a533?q=80&w=800",
+    "rating": 4.9,
+    "distance_km": 1.5,
+    "price_per_hour": 25.0,
+    "price_per_day": 280.0,
+    "currency": "$",
+    "description": "A legend reborn. Exceptional balance and agility on every turn.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "2 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "2998 cc"
+    },
+    "owner": {
+      "name": "Trackmasters",
+      "rating": 4.8,
+      "avatar_url": "https://i.pravatar.cc/150?u=supra",
+      "contact_number": "+133377700",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "hyundai-ioniq-5-2022",
+    "brand": "Hyundai",
+    "model_name": "Ioniq 5",
+    "category": "SUV",
+    "year": 2022,
+    "image_url": "https://images.unsplash.com/photo-1662580790885-3058b7255977?q=80&w=800",
+    "rating": 4.7,
+    "distance_km": 3.0,
+    "price_per_hour": 10.0,
+    "price_per_day": 90.0,
+    "currency": "$",
+    "description": "Ultra-fast charging and retro-modern design. A top-tier EV experience.",
+    "specifications": {
+      "transmission": "Single Speed",
+      "fuel_type": "Electric",
+      "seating_capacity": "5 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "77.4 kWh"
+    },
+    "owner": {
+      "name": "Future Mobility",
+      "rating": 4.6,
+      "avatar_url": "https://i.pravatar.cc/150?u=ioniq",
+      "contact_number": "+155500011",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "jeep-wrangler-2021",
+    "brand": "Jeep",
+    "model_name": "Wrangler Rubicon",
+    "category": "SUV",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=800",
+    "rating": 4.6,
+    "distance_km": 5.2,
+    "price_per_hour": 12.0,
+    "price_per_day": 130.0,
+    "currency": "$",
+    "description": "The ultimate off-road icon. Built for adventure beyond the pavement.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "3600 cc"
+    },
+    "owner": {
+      "name": "Wilderness Hires",
+      "rating": 4.5,
+      "avatar_url": "https://i.pravatar.cc/150?u=jeep",
+      "contact_number": "+199922233",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "bentley-continental-2023",
+    "brand": "Bentley",
+    "model_name": "Continental GT",
+    "category": "Luxury",
+    "year": 2023,
+    "image_url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=800",
+    "rating": 5.0,
+    "distance_km": 0.1,
+    "price_per_hour": 120.0,
+    "price_per_day": 1200.0,
+    "currency": "$",
+    "description": "The definitive Grand Tourer. Handcrafted luxury meets raw power.",
+    "specifications": {
+      "transmission": "Dual-Clutch",
+      "fuel_type": "Petrol",
+      "seating_capacity": "4 Seats",
+      "body_type": "Luxury Sport",
+      "engine_capacity": "5950 cc"
+    },
+    "owner": {
+      "name": "Royal Fleet",
+      "rating": 5.0,
+      "avatar_url": "https://i.pravatar.cc/150?u=bentley",
+      "contact_number": "+144411122",
+      "can_chat": false
+    }
+  },
+  {
+    "id": "volvo-xc90-2022",
+    "brand": "Volvo",
+    "model_name": "XC90 Recharge",
+    "category": "SUV",
+    "year": 2022,
+    "image_url": "https://images.unsplash.com/photo-1590362891991-f776e747a588?q=80&w=800",
+    "rating": 4.8,
+    "distance_km": 1.9,
+    "price_per_hour": 18.0,
+    "price_per_day": 200.0,
+    "currency": "$",
+    "description": "The safest SUV on the market. Scandanavian design at its best.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "seating_capacity": "7 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "1969 cc"
+    },
+    "owner": {
+      "name": "Safe Travels",
+      "rating": 4.9,
+      "avatar_url": "https://i.pravatar.cc/150?u=volvo",
+      "contact_number": "+122288800",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "mazda-mx5-2021",
+    "brand": "Mazda",
+    "model_name": "MX-5 Miata",
+    "category": "Sport",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=800",
+    "rating": 4.9,
+    "distance_km": 4.2,
+    "price_per_hour": 10.0,
+    "price_per_day": 85.0,
+    "currency": "$",
+    "description": "Drop the top and feel the road. Lightweight driving fun.",
+    "specifications": {
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "seating_capacity": "2 Seats",
+      "body_type": "Convertible",
+      "engine_capacity": "1998 cc"
+    },
+    "owner": {
+      "name": "Roadster Hires",
+      "rating": 4.9,
+      "avatar_url": "https://i.pravatar.cc/150?u=miata",
+      "contact_number": "+166644411",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "honda-civic-type-r-2021",
+    "brand": "Honda",
+    "model_name": "Civic Type R",
+    "category": "Sport",
+    "year": 2021,
+    "image_url": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?q=80&w=800",
+    "rating": 4.8,
+    "distance_km": 3.7,
+    "price_per_hour": 15.0,
+    "price_per_day": 140.0,
+    "currency": "$",
+    "description": "The king of hot hatches. Performance that defies its front-wheel-drive roots.",
+    "specifications": {
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "Hatchback",
+      "engine_capacity": "1996 cc"
+    },
+    "owner": {
+      "name": "Type R Club",
+      "rating": 4.7,
+      "avatar_url": "https://i.pravatar.cc/150?u=civic",
+      "contact_number": "+111199988",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "jaguar-f-type-2022",
+    "brand": "Jaguar",
+    "model_name": "F-Type R",
+    "category": "Sport",
+    "year": 2022,
+    "image_url": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=800",
+    "rating": 4.9,
+    "distance_km": 1.1,
+    "price_per_hour": 35.0,
+    "price_per_day": 380.0,
+    "currency": "$",
+    "description": "Stunning design and a visceral V8 soundtrack. British sports luxury.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "2 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "5000 cc"
+    },
+    "owner": {
+      "name": "Leopard Rentals",
+      "rating": 4.8,
+      "avatar_url": "https://i.pravatar.cc/150?u=jag",
+      "contact_number": "+122233300",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "chevrolet-corvette-2022",
+    "brand": "Chevrolet",
+    "model_name": "Corvette C8",
+    "category": "Sport",
+    "year": 2022,
+    "image_url": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?q=80&w=800",
+    "rating": 5.0,
+    "distance_km": 0.6,
+    "price_per_hour": 40.0,
+    "price_per_day": 450.0,
+    "currency": "$",
+    "description": "Mid-engine supercar performance at an incredible value.",
+    "specifications": {
+      "transmission": "Dual-Clutch",
+      "fuel_type": "Petrol",
+      "seating_capacity": "2 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "6162 cc"
+    },
+    "owner": {
+      "name": "C8 Shared",
+      "rating": 4.9,
+      "avatar_url": "https://i.pravatar.cc/150?u=corvette",
+      "contact_number": "+177744411",
+      "can_chat": true
+    }
+  }
+]
