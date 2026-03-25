@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cat-8f2b-91c0",
+    "name": "Luxury Sedan",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=500"
+  },
+  {
+    "id": "cat-3d1a-45e9",
+    "name": "Sport Coupe",
+    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=500"
+  },
+  {
+    "id": "cat-7c90-22b1",
+    "name": "Electric EV",
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?q=80&w=500"
+  },
+  {
+    "id": "cat-11a5-88f3",
+    "name": "Family SUV",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=500"
+  },
+  {
+    "id": "cat-99d2-bc74",
+    "name": "Off-Road 4x4",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?q=80&w=500"
+  },
+  {
+    "id": "cat-55e1-0012",
+    "name": "Convertible",
+    "image": "https://images.unsplash.com/photo-1527247043589-98e6ac08f56c?q=80&w=500"
+  },
+  {
+    "id": "cat-22f8-77a3",
+    "name": "Compact Hatchback",
+    "image": "https://images.unsplash.com/photo-1590362891991-f776e747a588?q=80&w=500"
+  },
+  {
+    "id": "cat-44b9-66c1",
+    "name": "Supercar",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=500"
+  },
+  {
+    "id": "cat-66d0-99e2",
+    "name": "Classic Vintage",
+    "image": "https://images.unsplash.com/photo-1516515429572-11887132832b?q=80&w=500"
+  },
+  {
+    "id": "cat-12c4-33d5",
+    "name": "Pick-up Truck",
+    "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=500"
+  },
+  {
+    "id": "cat-88e9-44f0",
+    "name": "Luxury Limousine",
+    "image": "https://images.unsplash.com/photo-1631214548472-358043642301?q=80&w=500"
+  },
+  {
+    "id": "cat-33a1-11b2",
+    "name": "Performance Wagon",
+    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=500"
+  },
+  {
+    "id": "cat-00f7-55e9",
+    "name": "Muscle Car",
+    "image": "https://images.unsplash.com/photo-1584345604482-813583d92008?q=80&w=500"
+  },
+  {
+    "id": "cat-77b3-88c4",
+    "name": "City Eco",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=500"
+  },
+  {
+    "id": "cat-44d5-66e0",
+    "name": "Minivan",
+    "image": "https://images.unsplash.com/photo-1610647752706-3bb12232b3ab?q=80&w=500"
+  },
+  {
+    "id": "cat-91f2-11a5",
+    "name": "Track Special",
+    "image": "https://images.unsplash.com/photo-1611016186353-9af58c69a533?q=80&w=500"
+  },
+  {
+    "id": "cat-22c0-33b8",
+    "name": "Adventure Camper",
+    "image": "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?q=80&w=500"
+  },
+  {
+    "id": "cat-55a9-77f3",
+    "name": "Grand Tourer",
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?q=80&w=500"
+  },
+  {
+    "id": "cat-66e1-99c0",
+    "name": "Business Class",
+    "image": "https://images.unsplash.com/photo-1542362567-b058c02b9ac1?q=80&w=500"
+  },
+  {
+    "id": "cat-00b4-11d2",
+    "name": "Hypercar",
+    "image": "https://images.unsplash.com/photo-1603577372314-d462447493bd?q=80&w=500"
+  }
+]
