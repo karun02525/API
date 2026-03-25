@@ -1,0 +1,263 @@
+[
+  {
+    "id": "mercedes-g63-2018",
+    "brand": "Mercedes-AMG",
+    "model_name": "G 63",
+    "category": "SUV",
+    "year": 2018,
+    "image_url": "https://www.spinny.com/blog/wp-content/uploads/2025/06/Mercedes-Maybach-SL-680-1160x768.webp",
+    "rating": 4.8,
+    "distance_km": 1.5,
+    "price_per_hour": 2.5,
+    "price_per_day": 30.0,
+    "currency": "$",
+    "description": "Unleash power and luxury with the iconic Mercedes-AMG G 63. This 2018 model blends aggressive design with elite performance.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "seating_capacity": "5 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "2983 cc"
+    },
+    "owner": {
+      "name": "Riyadh Management Group",
+      "rating": 4.8,
+      "avatar_url": "https://img.freepik.com/free-photo/handsome-young-cheerful-man-with-arms-crossed_171337-1073.jpg?semt=ais_hybrid&w=740&q=80",
+      "contact_number": "+123456789",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "porsche-911-2022",
+    "brand": "Porsche",
+    "model_name": "911 Carrera",
+    "category": "Sport",
+    "year": 2022,
+    "image_url": "https://media.ed.edmunds-media.com/porsche/911/2025/oem/2025_porsche_911_coupe_carrera-4-gts_fq_oem_1_1280.jpg",
+    "rating": 5.0,
+    "distance_km": 0.5,
+    "price_per_hour": 15.0,
+    "price_per_day": 180.0,
+    "currency": "$",
+    "description": "The gold standard of sports cars. Precise handling and timeless design for the ultimate driving experience.",
+    "specifications": {
+      "transmission": "PDK",
+      "fuel_type": "Petrol",
+      "seating_capacity": "2 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "3000 cc"
+    },
+    "owner": {
+      "name": "Elite Luxury Fleet",
+      "rating": 5.0,
+      "avatar_url": "https://media.news.illinois.edu/wp-content/uploads/2024/12/19104019/163506.jpg",
+      "contact_number": "+155544433",
+      "can_chat": false
+    }
+  },
+  {
+    "id": "tesla-model3-2023",
+    "brand": "Tesla",
+    "model_name": "Model 3",
+    "category": "Sedan",
+    "year": 2023,
+    "image_url": "https://api.car-rental.com/images/model3.png",
+    "rating": 4.9,
+    "distance_km": 2.1,
+    "price_per_hour": 3.0,
+    "price_per_day": 45.0,
+    "currency": "$",
+    "description": "Experience the future with the Tesla Model 3. High-tech interior with insane acceleration and zero emissions.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Electric",
+      "seating_capacity": "5 Seats",
+      "body_type": "Sedan",
+      "engine_capacity": "Dual Motor"
+    },
+    "owner": {
+      "name": "EcoRentals",
+      "rating": 4.7,
+      "avatar_url": "https://api.car-rental.com/images/owner2.png",
+      "contact_number": "+198765432",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "rollsroyce-phantom-2023",
+    "brand": "Rolls-Royce",
+    "model_name": "Phantom",
+    "category": "Luxury",
+    "year": 2023,
+    "image_url": "https://api.car-rental.com/images/phantom.png",
+    "rating": 5.0,
+    "distance_km": 0.1,
+    "price_per_hour": 100.0,
+    "price_per_day": 1200.0,
+    "currency": "$",
+    "description": "The ultimate expression of luxury. Silent, powerful, and utterly incomparable.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "Luxury",
+      "engine_capacity": "6750 cc"
+    },
+    "owner": {
+      "name": "Prestige Concierge",
+      "rating": 5.0,
+      "avatar_url": "https://api.car-rental.com/images/owner18.png",
+      "contact_number": "+188811122",
+      "can_chat": false
+    }
+  },
+  {
+    "id": "lamborghini-urus-2022",
+    "brand": "Lamborghini",
+    "model_name": "Urus",
+    "category": "SUV",
+    "year": 2022,
+    "image_url": "https://api.car-rental.com/images/urus.png",
+    "rating": 4.9,
+    "distance_km": 0.8,
+    "price_per_hour": 25.0,
+    "price_per_day": 350.0,
+    "currency": "$",
+    "description": "The soul of a super sports car and the functionality of an SUV. Unmatched presence on the road.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "4000 cc"
+    },
+    "owner": {
+      "name": "Exotic Auto Group",
+      "rating": 4.9,
+      "avatar_url": "https://api.car-rental.com/images/owner7.png",
+      "contact_number": "+199988877",
+      "can_chat": false
+    }
+  },
+  {
+    "id": "audi-a4-2020",
+    "brand": "Audi",
+    "model_name": "A4",
+    "category": "Sedan",
+    "year": 2020,
+    "image_url": "https://api.car-rental.com/images/audia4.png",
+    "rating": 4.4,
+    "distance_km": 4.5,
+    "price_per_hour": 2.0,
+    "price_per_day": 28.0,
+    "currency": "$",
+    "description": "Sophisticated, smart, and smooth. The Audi A4 is the perfect companion for business meetings in the city.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "Sedan",
+      "engine_capacity": "2000 cc"
+    },
+    "owner": {
+      "name": "Metropolis Rentals",
+      "rating": 4.2,
+      "avatar_url": "https://api.car-rental.com/images/owner5.png",
+      "contact_number": "+122211100",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "bmw-x5-2021",
+    "brand": "BMW",
+    "model_name": "X5 M",
+    "category": "SUV",
+    "year": 2021,
+    "image_url": "https://api.car-rental.com/images/bmwx5.png",
+    "rating": 4.6,
+    "distance_km": 3.2,
+    "price_per_hour": 5.0,
+    "price_per_day": 75.0,
+    "currency": "$",
+    "description": "A versatile SUV that doesn't compromise on speed. Perfect for family road trips.",
+    "specifications": {
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "seating_capacity": "5 Seats",
+      "body_type": "SUV",
+      "engine_capacity": "4400 cc"
+    },
+    "owner": {
+      "name": "Global Car Hub",
+      "rating": 4.5,
+      "avatar_url": "https://api.car-rental.com/images/owner4.png",
+      "contact_number": "+144433322",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "toyota-camry-2022",
+    "brand": "Toyota",
+    "model_name": "Camry Hybrid",
+    "category": "Sedan",
+    "year": 2022,
+    "image_url": "https://api.car-rental.com/images/camry.png",
+    "rating": 4.7,
+    "distance_km": 5.0,
+    "price_per_hour": 1.5,
+    "price_per_day": 22.0,
+    "currency": "$",
+    "description": "Reliability meets efficiency. Great fuel economy and a comfortable ride.",
+    "specifications": {
+      "transmission": "CVT",
+      "fuel_type": "Hybrid",
+      "seating_capacity": "5 Seats",
+      "body_type": "Sedan",
+      "engine_capacity": "2500 cc"
+    },
+    "owner": {
+      "name": "Daily Drive Co",
+      "rating": 4.8,
+      "avatar_url": "https://api.car-rental.com/images/owner6.png",
+      "contact_number": "+166677788",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "ford-mustang-2019",
+    "brand": "Ford",
+    "model_name": "Mustang GT",
+    "category": "Sport",
+    "year": 2019,
+    "image_url": "https://api.car-rental.com/images/mustang.png",
+    "rating": 4.5,
+    "distance_km": 2.8,
+    "price_per_hour": 4.0,
+    "price_per_day": 60.0,
+    "currency": "$",
+    "description": "Pure American muscle. The roar of the V8 engine will make every drive an adventure.",
+    "specifications": {
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "seating_capacity": "4 Seats",
+      "body_type": "Sport",
+      "engine_capacity": "5000 cc"
+    },
+    "owner": {
+      "name": "Muscle Car Club",
+      "rating": 4.4,
+      "avatar_url": "https://api.car-rental.com/images/owner8.png",
+      "contact_number": "+133322211",
+      "can_chat": true
+    }
+  },
+  {
+    "id": "landrover-defender-2023",
+    "brand": "Land Rover",
+    "model_name": "Defender 110",
+    "category": "SUV",
+    "year": 2023,
+    "image_url": "https://api.car-rental.com/images/defender.png",
+    "rating": 4.8,
+    "distance_km": 1.2,
+    "price_per_hour": 6.5,
